@@ -1,2 +1,2 @@
 # Databases-Project
-HTML and PHP code for a website for a supermarket which includes forms to enter, update or delete data and a form to generate statistics on the data in the database.
+HTML and PHP code for a website for a supermarket which includes forms to enter, update or delete data and a form to generate statistics on the data in the database. The javascript code for generating the graph is not purely written by me. I took some code from another website. This is the code for webpages for the Manager of the supermarket and the first screen is manager_homepage.php.
